@@ -12,7 +12,12 @@ public class Employee {
 	private void sub() {
 	
 			System.out.println("sub");
-
+			
+			}
+	
+	private void div() {
+		
+		System.out.println("div");
 	}
 
 }
