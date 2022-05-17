@@ -14,5 +14,9 @@ public class Employee {
 			System.out.println("sub");
 
 	}
+	
+	private void mul() {
+		System.out.println("multiple");
+	}
 
 }
