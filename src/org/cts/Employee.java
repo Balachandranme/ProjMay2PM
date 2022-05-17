@@ -3,21 +3,25 @@ package org.cts;
 public class Employee {
 	
 	
-	private void add() {
+	public void add() {
 		
 		System.out.println("add");
 		
 			}
 	
-	private void sub() {
+	public void sub() {
 	
 			System.out.println("sub");
 			
 			}
 	
-	private void div() {
+	public void div() {
 		
 		System.out.println("div");
+	}
+	
+	public void mul() {
+		System.out.println("multiple");
 	}
 
 }
